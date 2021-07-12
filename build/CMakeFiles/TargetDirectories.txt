@@ -1,3 +1,0 @@
-/home/makino/Documents/find_multi_template/build/CMakeFiles/rebuild_cache.dir
-/home/makino/Documents/find_multi_template/build/CMakeFiles/edit_cache.dir
-/home/makino/Documents/find_multi_template/build/CMakeFiles/find_multi_tamplate.dir
