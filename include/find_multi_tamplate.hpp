@@ -9,5 +9,6 @@
 #include <opencv2/highgui/highgui.hpp>
 
 #define THRESHOLD 0.7
+#define FIND_TARGET_NUM 30
 
 #endif
